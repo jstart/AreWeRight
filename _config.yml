@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: http://localhost:4000
+title: Impropooltund Andoga
+locale: et_EE
+description: 'Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.'
+logo: site-logo.jpg
+search: false
+url: http://pooltund.improv.ee
 
 # Jekyll configuration
 
@@ -23,33 +23,43 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
-  use_coderay: false
+  enable_coderay: false
 
 mathjax: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      share: true
+      layout: post
+      categories: osad
+      comments: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Ando Roots
+  avatar: ando.jpg
+  email: ando@sqroot.eu
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: #SQrooted
+  facebook: impropooltund
+  github: #anroots
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: #anroots
   instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
-    analytics:
+    plus: #AndoDavidRoots
+    analytics: UA-10052990-7
     verify:
     ad-client:
     ad-slot:

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+title: Osalejad
+excerpt: "Saadete arhiiv, grupeeritud osalejate järgi"
 search_omit: true
 ---
 

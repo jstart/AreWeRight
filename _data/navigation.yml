@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Avaleht
+  url: /
 
-- title: Articles
-  url: /articles/
+- title: Tule Saatesse
+  url: /tule-saatesse
 
-- title: Blog
-  url: /blog/
+- title: Facebook
+  url: https://www.facebook.com/impropooltund
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
-  url: /search/
+- title: Impro mängukava
+  url: http://improv.ee
