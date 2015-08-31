@@ -12,7 +12,7 @@ before_install:
 script:
   - bundle exec jekyll build
   - docker build -t hub.docker.com/anroots/pooltund.improv.ee .
-  - docker push hub.docker.com/anroots/pooltund.improv.ee
+  - docker push anroots/pooltund.improv.ee
 
 after_script:
   - docker logout
