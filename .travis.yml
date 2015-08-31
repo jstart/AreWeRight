@@ -1,13 +1,21 @@
+sudo: required
+services:
+  - docker
 language: ruby
 rvm:
   - 2.1
 
 before_install:
-  - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - bundle install
+  - docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
 
 script:
-  - bundle exec jekyll build --drafts
-#  - bundle exec htmlproof ./_site
+  - bundle exec jekyll build
+  - docker build -t hub.docker.com/anroots/pooltund.improv.ee .
+  - docker push hub.docker.com/anroots/pooltund.improv.ee
+
+after_script:
+  - docker logout
 
 notifications:
   email: false
