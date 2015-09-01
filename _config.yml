@@ -6,7 +6,7 @@ description: 'Impropooltund Andoga on netisaade, kus Ando ja ta külalised rää
 logo: site-logo.jpg
 search: false
 url: http://pooltund.improv.ee
-url: "http://localhost:4000"
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/

@@ -1,1 +1,8 @@
-docker-compose.yml
+web:
+  image: 
+  container_name: pooltund-improv-ee
+  ports:
+    - 80
+  environment:
+    VIRTUAL_HOST: pooltund.improv.ee
+  restart: on-failure:20
