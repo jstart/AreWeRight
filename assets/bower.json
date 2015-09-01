@@ -1,0 +1,13 @@
+{
+  "name":"pooltund.improv.ee",
+  "dependencies": {
+  	"jplayer":"~2.9"
+  },
+   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
