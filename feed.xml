@@ -1,42 +1,48 @@
 ---
 sitemap: false
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">{{ site.title }}</title>
-<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
-<link rel="alternate" type="text/html" href="{{ site.url }}" />
-<updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>{{ site.url }}/</id>
-<author>
-  <name>{{ site.owner.name }}</name>
-  <uri>{{ site.url }}/</uri>
-  {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
-</author>
-{% for post in site.posts limit:20 %}
-{% if post.author %}
-  {% assign author = site.data.authors[post.author] %}
-{% else %}
-  {% assign author = site.owner %}
-{% endif %}
-<entry>
-  <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-  <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
-  <id>{{ site.url }}{{ post.id }}</id>
-  {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
-  <published>{{ post.date | date_to_xmlschema }}</published>
-  {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
-  <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
-  <author>
-    <name>{{ author.name }}</name>
-    <uri>{{ site.url }}</uri>
-    {% if author.email %}<email>{{ author.email }}</email>{% endif %}
-  </author>
-  <content type="html">
-    {{ post.content | xml_escape }}
-    {% include feed-footer.html %}
-  </content>
-</entry>
-{% endfor %}
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}</link>
+    <language>ee</language>
+    <managingEditor>Ando Roots (ando@sqroot.eu)</managingEditor>
+    <webMaster>Ando Roots (ando@sqroot.eu)</webMaster>
+    <copyright>2016 Ando Roots</copyright>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+    <image>
+      <link>{{ site.url}}</link>
+      <url>{{ site.url }}/images/ando.jpg</url>
+      <title>{{ site.title }}</title>
+    </image>
+    <itunes:author>Ando Roots</itunes:author>
+    <itunes:summary>Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.</itunes:summary>
+    <itunes:keywords>Impro,improv,improviseeritud teater</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Ando Roots</itunes:name>
+      <itunes:email>ando@sqroot.eu</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}/images/ando.jpg" />
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>{{ site.url }}/{{ post.url }}</link>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+        <description>{{ post.excerpt }}</description>
+        <guid isPermaLink="true">{{ post.link }}</guid>
+        <enclosure url="http://cdn.pooltund.improv.ee/mp3/{{ post.mp3 }}" type="audio/mp3"/>
+        <itunes:author>Ando Roots</itunes:author>
+        <itunes:summary>{{ post.excerpt }}</itunes:summary>
+        <itunes:keywords>{{ post.tags | join: ',' }}</itunes:keywords>
+        <itunes:image href="{{ site.url }}/images/ando.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
