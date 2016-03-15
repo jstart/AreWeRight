@@ -5,7 +5,7 @@ locale: et_EE
 description: 'Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.'
 logo: site-logo.jpg
 search: false
-url: http://pooltund.improv.ee
+url: https://pooltund.improv.ee
 
 # Jekyll configuration
 
