@@ -11,7 +11,7 @@ module Jekyll
     end
 
     def render(context)
-    	url = "http://cdn.pooltund.improv.ee/mp3/" + context.environments.first['page']['mp3']
+    	url = "https://s3-eu-west-1.amazonaws.com/cdn.pooltund.improv.ee/mp3/mp3/" + context.environments.first['page']['mp3']
     	title = context.environments.first['page']['title']
 
         <<-EOS
