@@ -71,7 +71,7 @@ module Jekyll
     });
   </script>
 
-<p><a href="#{url}" class="btn">MP3 fail</a></p>
+<p><a href="#{url}" class="btn" target="_blank">MP3 fail</a></p>
 EOS
     end
   end
