@@ -9,7 +9,7 @@ url: https://pooltund.improv.ee
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:categories/:title
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -40,6 +40,11 @@ defaults:
       layout: post
       categories: osad
       comments: true
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title_visible: true
 
 # Site owner
 owner:
