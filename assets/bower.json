@@ -1,7 +1,7 @@
 {
   "name":"pooltund.improv.ee",
   "dependencies": {
-  	"jplayer":"~2.9"
+  	"podlove-web-player":"^3"
   },
    "ignore": [
     "**/.*",

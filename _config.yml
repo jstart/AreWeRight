@@ -1,14 +1,13 @@
 # Site wide configuration
 
-title: Impropooltund Andoga
+title: Impropooltund
 locale: et_EE
-description: 'Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.'
+description: 'Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.'
 logo: site-logo.jpg
 search: false
-url: https://pooltund.improv.ee
+url: http://localhost:4000
 
 # Jekyll configuration
-
 permalink:   /:categories/:title
 markdown:    kramdown
 highlighter: pygments
