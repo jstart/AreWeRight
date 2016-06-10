@@ -1,7 +1,7 @@
 {
   "show":{
     "title":"Impropooltund",
-    "subtitle":"Netisaade improteatrist",
+    "subtitle":"Netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
     "summary":"Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
     "poster":"/images/ando.jpg",
     "url":"http://pooltund.improv.ee"
@@ -10,6 +10,16 @@
     "name":"Creative Commons Attribution 4.0 International",
     "url":"https://creativecommons.org/licenses/by/4.0/"
   },
+  "profiles":[
+    {
+      "serviceName": "facebook",
+      "profile": "impropooltund"
+    },
+    {
+      "serviceName": "email",
+      "profile": "ando@sqroot.eu"
+    }
+  ],
   "episodes":[
     {
       "duration":"33:58.000",

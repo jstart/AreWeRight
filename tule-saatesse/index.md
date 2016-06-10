@@ -5,4 +5,4 @@ excerpt: ""
 search_omit: true
 ---
 
-Kui sa oled improviseerija ning soovid tulevases saates osaleda, saada mulle e-mail: ando At sqroot.eu.
+Kui sa oled lavakogemusega improviseerija ning soovid tulevases saates osaleda, saada mulle e-mail: ando@sqroot.eu.
