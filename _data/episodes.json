@@ -258,6 +258,133 @@
       "subtitle":"Longform Jämm",
       "publicationDate":"2016-04-09T10:10:10+00:00",
       "summary":"Janika Hirvelaan, Veeda Kala, Ando Roots, Rauno Meronen, Maria Liiger"
+    },
+    {
+      "duration":"35:27.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
+          "size":34064384,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":34464377,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Algus - monoloogid"
+        },
+        {
+          "start":"00:04:41.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:06:16.000",
+          "title":"Teine stseen"
+        },
+        {
+          "start":"00:04:41.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:07:43.000",
+          "title":"Kolmas stseen"
+        },
+        {
+          "start":"00:08:55.000",
+          "title":"Neljas stseen"
+        },
+        {
+          "start":"00:10:25.000",
+          "title":"Viies stseen"
+        },
+        {
+          "start":"00:12:15.000",
+          "title":"Kuues stseen"
+        },
+        {
+          "start":"00:13:25.000",
+          "title":"Seitsmes stseen"
+        },
+        {
+          "start":"00:14:21.000",
+          "title":"Kaheksas stseen"
+        },
+        {
+          "start":"00:16:07.000",
+          "title":"Üheksas stseen"
+        },
+        {
+          "start":"00:17:07.000",
+          "title":"Kümnes stseen"
+        },
+        {
+          "start":"00:18:19.000",
+          "title":"Üheteistkümnes stseen"
+        },
+        {
+          "start":"00:19:58.000",
+          "title":"Kaheteistkümnes stseen"
+        },
+        {
+          "start":"00:20:55.000",
+          "title":"Kolmeteistkümnes stseen"
+        },
+        {
+          "start":"00:21:55.000",
+          "title":"Neljateistkümnes stseen"
+        },
+        {
+          "start":"00:22:26.000",
+          "title":"Viieteistkümnes stseen"
+        },
+        {
+          "start":"00:23:57.000",
+          "title":"Kuueteistkümnes stseen"
+        },
+
+        {
+          "start":"00:25:05.000",
+          "title":"Seitsmeteistkümnes stseen"
+        },
+
+        {
+          "start":"00:27:10.000",
+          "title":"Kaheksateistkümnes stseen"
+        },
+
+        {
+          "start":"00:28:15.000",
+          "title":"Üheksateistkümnes stseen"
+        },
+        {
+          "start":"00:29:08.000",
+          "title":"Kahekümnes stseen"
+        },
+        {
+          "start":"00:31:00.000",
+          "title":"Kahekümne esimene stseen"
+        },
+        {
+          "start":"00:32:00.000",
+          "title":"Kokkuvõte"
+        },
+        {
+          "start":"00:33:50.000",
+          "title":"(bloopers)"
+        }
+      ],
+      "title":"Episood #13",
+      "permalink":"https://pooltund.improv.ee/osad/13/",
+      "subtitle":"Teine Hooaeg",
+      "publicationDate":"2016-06-14T23:30:10+00:00",
+      "summary":"Valmar Valdna, Eva Kristjuhan, Evelin Rootsi, Tanel Sirp, Janika Hirvelaan, Ando Roots"
     }
   ]
 }

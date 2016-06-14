@@ -34,7 +34,7 @@ sitemap: false
     <itunes:explicit>no</itunes:explicit>
     {% for episode in site.data.episodes.episodes %}
       <item>
-        <title>{{ episode.title }}</title>
+        <title>{{ episode.title }}: {{ episode.subtitle }}</title>
         <link>{{ episode.permalink }}</link>
         <pubDate>{{ episode.publicationDate | date_to_rfc822 }}</pubDate>
         <description>{{ episode.subtitle }}</description>
