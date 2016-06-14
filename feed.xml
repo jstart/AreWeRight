@@ -2,22 +2,24 @@
 sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">  
   <channel>
     <title>{{ site.title }}</title>
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
     <language>ee</language>
-    <managingEditor>Ando Roots (ando@sqroot.eu)</managingEditor>
-    <webMaster>Ando Roots (ando@sqroot.eu)</webMaster>
+    <managingEditor>ando@sqroot.eu (Ando Roots)</managingEditor>
+    <webMaster>ando@sqroot.eu (Ando Roots)</webMaster>
     <copyright>2016 Ando Roots</copyright>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <image>
       <link>{{ site.url}}</link>
       <url>{{ site.url }}/images/ando.jpg</url>
       <title>{{ site.title }}</title>
     </image>
+    <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"/>
+
     <itunes:author>Ando Roots</itunes:author>
     <itunes:summary>Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.</itunes:summary>
     <itunes:keywords>Impro,improv,improviseeritud teater</itunes:keywords>
@@ -29,15 +31,16 @@ sitemap: false
     <itunes:category text="Arts">
       <itunes:category text="Performing Arts" />
     </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
     {% for episode in site.data.episodes.episodes %}
       <item>
         <title>{{ episode.title }}</title>
         <link>{{ episode.permalink }}</link>
-        <pubDate>{{ episode.publicationDate | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+        <pubDate>{{ episode.publicationDate | date_to_rfc822 }}</pubDate>
         <description>{{ episode.subtitle }}</description>
         <guid isPermaLink="true">{{ episode.permalink }}</guid>
         {% assign download = episode.downloads[0] %}
-        <enclosure url="{{ download.directAccess }}" type="audio/mp3"/>
+        <enclosure url="{{ download.directAccess }}" length="{{ download.size }}" type="audio/mp3"/>
         <itunes:author>Ando Roots</itunes:author>
         <itunes:summary>{{ episode.summary }}</itunes:summary>
         <itunes:keywords>{{ episode.summary }}</itunes:keywords>
