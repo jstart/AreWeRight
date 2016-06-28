@@ -385,6 +385,46 @@
       "subtitle":"Teine Hooaeg",
       "publicationDate":"2016-06-14T23:30:10+00:00",
       "summary":"Valmar Valdna, Eva Kristjuhan, Evelin Rootsi, Tanel Sirp, Janika Hirvelaan, Ando Roots"
+    },
+    {
+      "duration":"40:01.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
+          "size":38428672,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":38852209,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Algus - sissejuhatus ja monoloogid"
+        },
+        {
+          "start":"00:04:20.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:34:00.000",
+          "title":"Kokkuvõte"
+        },
+        {
+          "start":"00:38:02.000",
+          "title":"(bloopers)"
+        }
+      ],
+      "title":"Episood #14",
+      "permalink":"https://pooltund.improv.ee/osad/14/",
+      "subtitle":"Kaks Issit",
+      "publicationDate":"2016-06-28T22:00:10+00:00",
+      "summary":"Räägitakse suhtedünaamikatest. Tulnukad ründavad maad. Spaas saab romantikat. Saates Timo Talvik, Tanel Sirp, Janika Hirvelaan ja Ando Roots"
     }
   ]
 }
