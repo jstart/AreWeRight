@@ -5,7 +5,8 @@ locale: et_EE
 description: 'Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.'
 logo: site-logo.jpg
 search: false
-url: https://pooltund.improv.ee
+#url: https://pooltund.improv.ee
+url: http://localhost:4000
 
 # Jekyll configuration
 permalink:   /:categories/:title
