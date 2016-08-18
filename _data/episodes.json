@@ -498,51 +498,6 @@
       "publicationDate":"2016-07-26T10:00:00+00:00",
       "summary":"Pool tundi muusikast inspireeritud narratiivset improviseeritud kuuldemängu. Saates Timo Talvik, Tanel Sirp, Eva Kristjuhan, Valmar Valdna ja Ando Roots"
     },
-
-    {
-      "duration":"35:51.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":34455552,
-          "url":"http://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3",
-          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3"
-        },
-        {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":34826598,
-          "url":"http://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a",
-          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a"
-        }
-      ],
-      "chapters":[
-        {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
-        },
-        {
-          "start":"00:01:05.000",
-          "title":"Esimene stseen"
-        },
-        {
-          "start":"00:27:45.000",
-          "title":"Kokkuvõte"
-        },
-        {
-          "start":"00:29:15.000",
-          "title":"Uudised"
-        },
-        {
-          "start":"00:32:45.000",
-          "title":"Bloopers"
-        }
-      ],
-      "title":"Osa #17",
-      "permalink":"https://pooltund.improv.ee/osad/17/",
-      "subtitle":"Tsenseeritud Toivo",
-      "publicationDate":"2016-08-10T22:30:00+00:00",
-      "summary":"Olin su isaga hea sõber. Ma olin siis päris väike. Su isa oli hea mees... vinge mees. Kahju, et teda enam ei ole. Ta suri ära. Lahinguväljal. Saates Janika Hirvelaan, Timo Talvik, Toivo Värbu, Rauno Meronen ja Ando Roots"
-    },
     {
       "duration":"35:51.000",
       "downloads":[
