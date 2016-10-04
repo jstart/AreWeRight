@@ -585,6 +585,46 @@
       "subtitle":"The Business of Improv",
       "publicationDate":"2016-08-18T21:00:00+00:00",
       "summary":"Noah Levin and Rauno Meronen share their experience with professional improv and growing the improv community"
+    },
+     {
+      "duration":"34:06.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
+          "size":49089305,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":33080008,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Sissejuhatus"
+        },
+        {
+          "start":"00:01:36.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:29:14.000",
+          "title":"Kokkuvõte"
+        },
+        {
+          "start":"00:33:25.000",
+          "title":"Bloopers"
+        }
+      ],
+      "title":"Osa #17",
+      "permalink":"https://pooltund.improv.ee/osad/17/",
+      "subtitle":"Mitu Vagunit",
+      "publicationDate":"2016-10-04T22:30:00+00:00",
+      "summary":"Saates Toivo Värbu, Rauno Meronen, Ando Roots, Tanel Sirp ja Timo Talvik."
     }
   ]
 }
