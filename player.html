@@ -52,9 +52,12 @@ $.getJSON( "/episodes.json", function( podcastInfo ) {
   episode.profiles = podcastInfo.show.profiles
   delete podcastInfo.episodes
   playerConfig = $.extend(podcastInfo, episode)
-  
-  $('audio').append('<source src="'+episode.downloads[0].directAccess+'" type="audio/mpeg">')
 
+  $('audio').append('<source src="'+episode.downloads[0].directAccess+'" type="audio/mpeg">');
+  if(episode.downloads[1]) {
+    $('audio').append('<source src="'+episode.downloads[1].directAccess+'" type="audio/mp4">');
+  }
+  console.log(playerConfig);
   $('audio').podlovewebplayer(playerConfig);
 });
 </script>
