@@ -4,7 +4,7 @@
     "subtitle":"Netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
     "summary":"Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
     "poster":"/images/ando.jpg",
-    "url":"http://pooltund.improv.ee"
+    "url":"https://pooltund.improv.ee"
   },
   "license":{
     "name":"Creative Commons Attribution 4.0 International",
@@ -625,6 +625,59 @@
       "subtitle":"Mitu Vagunit",
       "publicationDate":"2016-10-04T22:30:00+00:00",
       "summary":"Saates Toivo Värbu, Rauno Meronen, Ando Roots, Tanel Sirp ja Timo Talvik."
+    },
+
+
+
+
+
+    {
+      "duration":"32:21.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
+          "size":46592208,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":31396778,
+          "url":"http://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a",
+          "directAccess":"http://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Introductions"
+        },
+        {
+          "start":"00:03:00.000",
+          "title":"Inspiration Monologues"
+        },
+        {
+          "start":"00:05:45.000",
+          "title":"First Scene"
+        },
+        {
+          "start":"00:24:20.000",
+          "title":"Intermission"
+        },
+        {
+          "start":"00:25:00.000",
+          "title":"Jump back to the 1st scene"
+        },
+        {
+          "start":"00:27:35.000",
+          "title":"Outro"
+        }
+      ],
+      "title":"Episode #20: Tilt 4 Special",
+      "permalink":"https://pooltund.improv.ee/osad/20/",
+      "subtitle":"Tilt 4 Special",
+      "publicationDate":"2016-10-23T17:00:00+00:00",
+      "summary":"Recorded at the Tilt 4 Improv Festival, 20-22 October 2016 in Tallinn, Estonia. Rod Ben Zeev, Hila Di Castro and Dan Renwick join me to record a short improv jam."
     }
   ]
 }
