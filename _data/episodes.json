@@ -673,6 +673,52 @@
       "subtitle":"Tilt 4 Special",
       "publicationDate":"2016-10-23T17:00:00+00:00",
       "summary":"Recorded at the Tilt 4 Improv Festival, 20-22 October 2016 in Tallinn, Estonia. Rod Ben Zeev, Hila Di Castro and Dan Renwick join me to record a short improv jam."
+    },
+
+
+    {
+      "duration":"38:24.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
+          "size":55302895,
+          "url":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3",
+          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":38236858,
+          "url":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a",
+          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Sissejuhatus"
+        },
+        {
+          "start":"00:03:13.000",
+          "title":"Monoloogid"
+        },
+        {
+          "start":"00:05:38.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:32:43.000",
+          "title":"Arutelu"
+        },
+        {
+          "start":"00:36:58.000",
+          "title":"Bloopers"
+        }
+      ],
+      "title":"Episood #21: Komejant",
+      "permalink":"https://pooltund.improv.ee/osad/21/",
+      "subtitle":"Komejant",
+      "publicationDate":"2016-12-31T16:00:00+00:00",
+      "summary":"Saates Ruutu10 majatiim Komejant: Janika Hirvelaan, Enel Murakas, Kristjan Vatter, Maria Liiger, Kaupo Vaher, Olavi Sõna."
     }
   ]
 }
