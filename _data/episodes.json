@@ -719,6 +719,53 @@
       "subtitle":"Komejant",
       "publicationDate":"2016-12-31T16:00:00+00:00",
       "summary":"Saates on Ruutu10 majatiim Komejant: Janika Hirvelaan, Enel Murakas, Kristjan Vatter, Maria Liiger, Kaupo Vaher ja Olavi Sõna. Komejant on Ruutu10-ne majatiim, mis loodi 2016 sügisel improviseerijatest, kes on läbinud Ruutu10 impro-kursuse(d). Majatiimi juhendaja on Rauno Meronen Ruutu10-st."
+    },
+
+
+        {
+      "duration":"33:56.000",
+      "downloads":[
+        {
+          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
+          "size":48896000,
+          "url":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3",
+          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3"
+        },
+        {
+          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
+          "size":34774576,
+          "url":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a",
+          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a"
+        }
+      ],
+      "chapters":[
+        {
+          "start":"00:00:00.000",
+          "title":"Sissejuhatus"
+        },
+        {
+          "start":"00:03:00.000",
+          "title":"Monoloogid"
+        },
+        {
+          "start":"00:06:00.000",
+          "title":"Esimene stseen"
+        },
+        {
+          "start":"00:29:38.000",
+          "title":"Arutelu"
+        }
+      ],
+      "title":"Episood #22",
+      "permalink":"https://pooltund.improv.ee/osad/22/",
+      "subtitle":"Kodulaenust Ja Laste Saamisest",
+      "publicationDate":"2017-01-24T10:00:00+00:00",
+      "summary":"Kuuldemäng, mis viib meid haiglasse, kus keskealine paarike proovib arstide ja erinevate haigla asukate kaasabil leida vastust küsimusele kas ja kuidas last saada. Inspireerituna Ando mõtetest vananemisest ja kodulaenust ning Toivo matemaatilisest valemist, mis arvutab välja kui vana peaks Toivo olema, et lapsi saada. Saates on Janika Hirvelaan, Toivo Värbu, Rauno Meronen ja Ando Roots."
     }
+
+
+
+
+
   ]
 }
