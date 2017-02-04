@@ -1,16 +1,16 @@
 {
-  "show":{
-    "title":"Impropooltund",
-    "subtitle":"Netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
-    "summary":"Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
-    "poster":"/images/ando.jpg",
-    "url":"https://pooltund.improv.ee"
+  "show": {
+    "title": "Impropooltund",
+    "subtitle": "Netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
+    "summary": "Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.",
+    "poster": "/images/ando.jpg",
+    "url": "https://pooltund.improv.ee"
   },
-  "license":{
-    "name":"Creative Commons Attribution 4.0 International",
-    "url":"https://creativecommons.org/licenses/by/4.0/"
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
   },
-  "profiles":[
+  "profiles": [
     {
       "serviceName": "facebook",
       "profile": "impropooltund"
@@ -20,778 +20,802 @@
       "profile": "ando@sqroot.eu"
     }
   ],
-  "episodes":[
+  "episodes": [
     {
-      "duration":"33:58.000",
-      "downloads":[
+      "duration": "33:58.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":39710110,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-06-21-Impropooltund-Andoga-Episood-1-Algus.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-06-21-Impropooltund-Andoga-Episood-1-Algus.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 39710110,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-06-21-Impropooltund-Andoga-Episood-1-Algus.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-06-21-Impropooltund-Andoga-Episood-1-Algus.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-06-21-Impropooltund-Andoga-Episood-1-Algus.mp3"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Saate tutvustus"
+          "start": "00:00:00.000",
+          "title": "Saate tutvustus"
         },
         {
-          "start":"00:01:17.000",
-          "title":"Saatekülaliste tutvustus"
+          "start": "00:01:17.000",
+          "title": "Saatekülaliste tutvustus"
         },
         {
-          "start":"00:07:51.000",
-          "title":"Esimene stseen"
+          "start": "00:07:51.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:31:49.000",
-          "title":"Longformi kokkuvõte"
+          "start": "00:31:49.000",
+          "title": "Longformi kokkuvõte"
         }
       ],
-      "title":"Episood #1",
-      "permalink":"https://pooltund.improv.ee/osad/1/",
-      "subtitle":"Algus",
-      "publicationDate":"2015-06-22T10:10:10+00:00",
-      "summary":"Eva Kristjuhan, Veeda Kala, Ando Roots, Valmar Valdna"
-    },
-    {
-      "duration":"31:09.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":50437359,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-06-28-Impropooltund-Andoga-Episood-2-Poikpaine-Kass.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-06-28-Impropooltund-Andoga-Episood-2-Poikpaine-Kass.mp3"
-        }
-      ],
-      "chapters":[
-        {
-          "start":"00:00:00.000",
-          "title":"Algus"
-        },
-        {
-          "start":"00:04:31.000",
-          "title":"Esimene stseen"
-        },
-        {
-          "start":"00:27:45.000",
-          "title":"Lõpp"
-        }
-      ],
-      "title":"Episood #2",
-      "permalink":"https://pooltund.improv.ee/osad/2/",
-      "subtitle":"Põikpäine Kass",
-      "publicationDate":"2015-06-28T10:10:10+00:00",
-      "summary":"Eva Kristjuhan, Evelin Rootsi, Ando Roots, Valmar Valdna"
+      "title": "Episood #1",
+      "permalink": "https://pooltund.improv.ee/osad/1/",
+      "subtitle": "Algus",
+      "publicationDate": "2015-06-22T10:10:10+00:00",
+      "summary": "Eva Kristjuhan, Veeda Kala, Ando Roots, Valmar Valdna"
     },
     {
-      "duration":"37:22.000",
-      "downloads":[
+      "duration": "31:09.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":60697941,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-07-05-Impropooltund-Andoga-Episood-3-Muutuste-Aeg.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-07-05-Impropooltund-Andoga-Episood-3-Muutuste-Aeg.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 50437359,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-06-28-Impropooltund-Andoga-Episood-2-Poikpaine-Kass.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-06-28-Impropooltund-Andoga-Episood-2-Poikpaine-Kass.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-06-28-Impropooltund-Andoga-Episood-2-Poikpaine-Kass.mp3"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Algus"
+          "start": "00:00:00.000",
+          "title": "Algus"
         },
         {
-          "start":"00:06:30.000",
-          "title":"Esimene stseen"
+          "start": "00:04:31.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:34:26.000",
-          "title":"Longformi kokkuvõte"
+          "start": "00:27:45.000",
+          "title": "Lõpp"
         }
       ],
-      "title":"Episood #3",
-      "permalink":"https://pooltund.improv.ee/osad/3/",
-      "subtitle":"Algus",
-      "publicationDate":"2015-07-05T10:10:10+00:00",
-      "summary":"Eva Kristjuhan, Veeda Kala, Ando Roots, Timo Talvik"
+      "title": "Episood #2",
+      "permalink": "https://pooltund.improv.ee/osad/2/",
+      "subtitle": "Põikpäine Kass",
+      "publicationDate": "2015-06-28T10:10:10+00:00",
+      "summary": "Eva Kristjuhan, Evelin Rootsi, Ando Roots, Valmar Valdna"
     },
     {
-      "duration":"42:22.000",
-      "downloads":[
+      "duration": "37:22.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":82704772,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-07-12-Impropooltund-Andoga-Episode-4-Peter-Mezey-Kaufman.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-07-12-Impropooltund-Andoga-Episode-4-Peter-Mezey-Kaufman.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 60697941,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-07-05-Impropooltund-Andoga-Episood-3-Muutuste-Aeg.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-07-05-Impropooltund-Andoga-Episood-3-Muutuste-Aeg.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-07-05-Impropooltund-Andoga-Episood-3-Muutuste-Aeg.mp3"
         }
       ],
-      "title":"Episood #4",
-      "permalink":"https://pooltund.improv.ee/osad/4/",
-      "subtitle":"Peter Mezy Kaufman",
-      "publicationDate":"2015-07-12T10:10:10+00:00",
-      "summary":"Martin Junna, Rauno Meronen, Ando Roots, Peter Mezy Kaufman, Joonas Rääk"
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Algus"
+        },
+        {
+          "start": "00:06:30.000",
+          "title": "Esimene stseen"
+        },
+        {
+          "start": "00:34:26.000",
+          "title": "Longformi kokkuvõte"
+        }
+      ],
+      "title": "Episood #3",
+      "permalink": "https://pooltund.improv.ee/osad/3/",
+      "subtitle": "Algus",
+      "publicationDate": "2015-07-05T10:10:10+00:00",
+      "summary": "Eva Kristjuhan, Veeda Kala, Ando Roots, Timo Talvik"
     },
     {
-      "duration":"42:13.000",
-      "downloads":[
+      "duration": "42:22.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":81694853,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-07-19-Impropooltund-Andoga-Episood-5-Moni-On-Rohkem-Metsa-Poole.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-07-19-Impropooltund-Andoga-Episood-5-Moni-On-Rohkem-Metsa-Poole.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 82704772,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-07-12-Impropooltund-Andoga-Episode-4-Peter-Mezey-Kaufman.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-07-12-Impropooltund-Andoga-Episode-4-Peter-Mezey-Kaufman.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-07-12-Impropooltund-Andoga-Episode-4-Peter-Mezey-Kaufman.mp3"
         }
       ],
-      "title":"Episood #5",
-      "permalink":"https://pooltund.improv.ee/osad/5/",
-      "subtitle":"Mõni On Rohkem Metsa Poole",
-      "publicationDate":"2015-07-19T10:10:10+00:00",
-      "summary":"Maria Jõgi, Liis Preitof, Ando Roots, Evelin Rootsi, Timo Talvik"
+      "title": "Episood #4",
+      "permalink": "https://pooltund.improv.ee/osad/4/",
+      "subtitle": "Peter Mezy Kaufman",
+      "publicationDate": "2015-07-12T10:10:10+00:00",
+      "summary": "Martin Junna, Rauno Meronen, Ando Roots, Peter Mezy Kaufman, Joonas Rääk"
     },
     {
-      "duration":"57:00.000",
-      "downloads":[
+      "duration": "42:13.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":109799459,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-08-02-Impropooltund-Andoga-Episood-6-Improviseeritud-Teater-Ning-Kuidas-Teda-Suuakse.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-08-02-Impropooltund-Andoga-Episood-6-Improviseeritud-Teater-Ning-Kuidas-Teda-Suuakse.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 81694853,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-07-19-Impropooltund-Andoga-Episood-5-Moni-On-Rohkem-Metsa-Poole.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-07-19-Impropooltund-Andoga-Episood-5-Moni-On-Rohkem-Metsa-Poole.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-07-19-Impropooltund-Andoga-Episood-5-Moni-On-Rohkem-Metsa-Poole.mp3"
         }
       ],
-      "title":"Episood #6",
-      "permalink":"https://pooltund.improv.ee/osad/6/",
-      "subtitle":"Improviseeritud Teater Ning Kuidas Teda Süüakse",
-      "publicationDate":"2015-08-02T10:10:10+00:00",
-      "summary":"Martin Junna, Rauno Meronen, Ando Roots, Maria Liiger"
+      "title": "Episood #5",
+      "permalink": "https://pooltund.improv.ee/osad/5/",
+      "subtitle": "Mõni On Rohkem Metsa Poole",
+      "publicationDate": "2015-07-19T10:10:10+00:00",
+      "summary": "Maria Jõgi, Liis Preitof, Ando Roots, Evelin Rootsi, Timo Talvik"
     },
     {
-      "duration":"56:13.000",
-      "downloads":[
+      "duration": "57:00.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":107130556,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-08-10-Impropooltund-Andoga-Episood-7-Meised-Ja-Nahed.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-08-10-Impropooltund-Andoga-Episood-7-Meised-Ja-Nahed.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 109799459,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-08-02-Impropooltund-Andoga-Episood-6-Improviseeritud-Teater-Ning-Kuidas-Teda-Suuakse.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-08-02-Impropooltund-Andoga-Episood-6-Improviseeritud-Teater-Ning-Kuidas-Teda-Suuakse.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-08-02-Impropooltund-Andoga-Episood-6-Improviseeritud-Teater-Ning-Kuidas-Teda-Suuakse.mp3"
         }
       ],
-      "title":"Episood #7",
-      "permalink":"https://pooltund.improv.ee/osad/7/",
-      "subtitle":"Meised Ja Nahed",
-      "publicationDate":"2015-08-10T10:10:10+00:00",
-      "summary":"Erik Mänd, Andres Kalle, Martin Junna, Ando Roots, Ott Matiisen"
+      "title": "Episood #6",
+      "permalink": "https://pooltund.improv.ee/osad/6/",
+      "subtitle": "Improviseeritud Teater Ning Kuidas Teda Süüakse",
+      "publicationDate": "2015-08-02T10:10:10+00:00",
+      "summary": "Martin Junna, Rauno Meronen, Ando Roots, Maria Liiger"
     },
     {
-      "duration":"45:49.000",
-      "downloads":[
+      "duration": "56:13.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":94736445,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-08-30-Impropooltund-Andoga-Episood-8-TILT3.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-08-30-Impropooltund-Andoga-Episood-8-TILT3.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 107130556,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-08-10-Impropooltund-Andoga-Episood-7-Meised-Ja-Nahed.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-08-10-Impropooltund-Andoga-Episood-7-Meised-Ja-Nahed.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-08-10-Impropooltund-Andoga-Episood-7-Meised-Ja-Nahed.mp3"
         }
       ],
-      "title":"Episood #8",
-      "permalink":"https://pooltund.improv.ee/osad/8/",
-      "subtitle":"TILT 3",
-      "publicationDate":"2015-08-30T10:10:10+00:00",
-      "summary":"Rahel Otsa, Veeda Kala, Ando Roots, Trent Pancy"
+      "title": "Episood #7",
+      "permalink": "https://pooltund.improv.ee/osad/7/",
+      "subtitle": "Meised Ja Nahed",
+      "publicationDate": "2015-08-10T10:10:10+00:00",
+      "summary": "Erik Mänd, Andres Kalle, Martin Junna, Ando Roots, Ott Matiisen"
     },
     {
-      "duration":"28:26.000",
-      "downloads":[
+      "duration": "45:49.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":53076309,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-10-01-Impropooltund-Andoga-Episood-9-Too-Oma-Meeskond.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-10-01-Impropooltund-Andoga-Episood-9-Too-Oma-Meeskond.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 94736445,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-08-30-Impropooltund-Andoga-Episood-8-TILT3.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-08-30-Impropooltund-Andoga-Episood-8-TILT3.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-08-30-Impropooltund-Andoga-Episood-8-TILT3.mp3"
         }
       ],
-      "title":"Episood #9",
-      "permalink":"https://pooltund.improv.ee/osad/9/",
-      "subtitle":"Too Oma Meeskond",
-      "publicationDate":"2015-10-01T10:10:10+00:00",
-      "summary":"Janika Hirvelaan, Rauno Meronen, Krister H Sepp, Siret Tuula, Ando Roots, Toivo Värbu"
+      "title": "Episood #8",
+      "permalink": "https://pooltund.improv.ee/osad/8/",
+      "subtitle": "TILT 3",
+      "publicationDate": "2015-08-30T10:10:10+00:00",
+      "summary": "Rahel Otsa, Veeda Kala, Ando Roots, Trent Pancy"
     },
     {
-      "duration":"21:30.000",
-      "downloads":[
+      "duration": "28:26.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":41376639,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2015-10-05-Half-An-Hour-Of-Improv-With-Ando-Episode-10-Tilt-Workshop-Instructors-Special.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2015-10-05-Half-An-Hour-Of-Improv-With-Ando-Episode-10-Tilt-Workshop-Instructors-Special.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 53076309,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-10-01-Impropooltund-Andoga-Episood-9-Too-Oma-Meeskond.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-10-01-Impropooltund-Andoga-Episood-9-Too-Oma-Meeskond.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-10-01-Impropooltund-Andoga-Episood-9-Too-Oma-Meeskond.mp3"
         }
       ],
-      "title":"Episood #10",
-      "permalink":"https://pooltund.improv.ee/osad/10/",
-      "subtitle":"TILT Workshop Instructors Special",
-      "publicationDate":"2015-10-05T10:10:10+00:00",
-      "summary":"Monica Anastase, Timothee Ansieau, Kevin Miller, Axel Moustache, Trent Pancy, Ando Roots"
+      "title": "Episood #9",
+      "permalink": "https://pooltund.improv.ee/osad/9/",
+      "subtitle": "Too Oma Meeskond",
+      "publicationDate": "2015-10-01T10:10:10+00:00",
+      "summary": "Janika Hirvelaan, Rauno Meronen, Krister H Sepp, Siret Tuula, Ando Roots, Toivo Värbu"
     },
     {
-      "duration":"34:21.000",
-      "downloads":[
+      "duration": "21:30.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":66623641,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-01-10-Impropooltund-Andoga-Episood-11-Maailma-Halvimad-Vanemad.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-01-10-Impropooltund-Andoga-Episood-11-Maailma-Halvimad-Vanemad.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 41376639,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2015-10-05-Half-An-Hour-Of-Improv-With-Ando-Episode-10-Tilt-Workshop-Instructors-Special.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2015-10-05-Half-An-Hour-Of-Improv-With-Ando-Episode-10-Tilt-Workshop-Instructors-Special.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2015-10-05-Half-An-Hour-Of-Improv-With-Ando-Episode-10-Tilt-Workshop-Instructors-Special.mp3"
         }
       ],
-      "title":"Episood #11",
-      "permalink":"https://pooltund.improv.ee/osad/11/",
-      "subtitle":"Maailma Halvimad Vanemad",
-      "publicationDate":"2016-01-10T10:10:10+00:00",
-      "summary":"Janika Hirvelaan, Timo Talvik, Ando Roots"
+      "title": "Episood #10",
+      "permalink": "https://pooltund.improv.ee/osad/10/",
+      "subtitle": "TILT Workshop Instructors Special",
+      "publicationDate": "2015-10-05T10:10:10+00:00",
+      "summary": "Monica Anastase, Timothee Ansieau, Kevin Miller, Axel Moustache, Trent Pancy, Ando Roots"
     },
     {
-      "duration":"21:39.000",
-      "downloads":[
+      "duration": "34:21.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (mp3)",
-          "size":31970477,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-04-09-Impropooltund-Andoga-Episood-12-Longform-Jamm.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-04-09-Impropooltund-Andoga-Episood-12-Longform-Jamm.mp3"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 66623641,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-01-10-Impropooltund-Andoga-Episood-11-Maailma-Halvimad-Vanemad.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-01-10-Impropooltund-Andoga-Episood-11-Maailma-Halvimad-Vanemad.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-01-10-Impropooltund-Andoga-Episood-11-Maailma-Halvimad-Vanemad.mp3"
         }
       ],
-      "title":"Episood #12",
-      "permalink":"https://pooltund.improv.ee/osad/12/",
-      "subtitle":"Longform Jämm",
-      "publicationDate":"2016-04-09T10:10:10+00:00",
-      "summary":"Janika Hirvelaan, Veeda Kala, Ando Roots, Rauno Meronen, Maria Liiger"
+      "title": "Episood #11",
+      "permalink": "https://pooltund.improv.ee/osad/11/",
+      "subtitle": "Maailma Halvimad Vanemad",
+      "publicationDate": "2016-01-10T10:10:10+00:00",
+      "summary": "Janika Hirvelaan, Timo Talvik, Ando Roots"
     },
     {
-      "duration":"35:27.000",
-      "downloads":[
+      "duration": "21:39.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":34064384,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3"
-        },
-        {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":34464377,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a"
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 31970477,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-04-09-Impropooltund-Andoga-Episood-12-Longform-Jamm.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-04-09-Impropooltund-Andoga-Episood-12-Longform-Jamm.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-04-09-Impropooltund-Andoga-Episood-12-Longform-Jamm.mp3"
         }
       ],
-      "chapters":[
-        {
-          "start":"00:00:00.000",
-          "title":"Algus - monoloogid"
-        },
-        {
-          "start":"00:04:41.000",
-          "title":"Esimene stseen"
-        },
-        {
-          "start":"00:06:16.000",
-          "title":"Teine stseen"
-        },
-        {
-          "start":"00:04:41.000",
-          "title":"Esimene stseen"
-        },
-        {
-          "start":"00:07:43.000",
-          "title":"Kolmas stseen"
-        },
-        {
-          "start":"00:08:55.000",
-          "title":"Neljas stseen"
-        },
-        {
-          "start":"00:10:25.000",
-          "title":"Viies stseen"
-        },
-        {
-          "start":"00:12:15.000",
-          "title":"Kuues stseen"
-        },
-        {
-          "start":"00:13:25.000",
-          "title":"Seitsmes stseen"
-        },
-        {
-          "start":"00:14:21.000",
-          "title":"Kaheksas stseen"
-        },
-        {
-          "start":"00:16:07.000",
-          "title":"Üheksas stseen"
-        },
-        {
-          "start":"00:17:07.000",
-          "title":"Kümnes stseen"
-        },
-        {
-          "start":"00:18:19.000",
-          "title":"Üheteistkümnes stseen"
-        },
-        {
-          "start":"00:19:58.000",
-          "title":"Kaheteistkümnes stseen"
-        },
-        {
-          "start":"00:20:55.000",
-          "title":"Kolmeteistkümnes stseen"
-        },
-        {
-          "start":"00:21:55.000",
-          "title":"Neljateistkümnes stseen"
-        },
-        {
-          "start":"00:22:26.000",
-          "title":"Viieteistkümnes stseen"
-        },
-        {
-          "start":"00:23:57.000",
-          "title":"Kuueteistkümnes stseen"
-        },
-
-        {
-          "start":"00:25:05.000",
-          "title":"Seitsmeteistkümnes stseen"
-        },
-
-        {
-          "start":"00:27:10.000",
-          "title":"Kaheksateistkümnes stseen"
-        },
-
-        {
-          "start":"00:28:15.000",
-          "title":"Üheksateistkümnes stseen"
-        },
-        {
-          "start":"00:29:08.000",
-          "title":"Kahekümnes stseen"
-        },
-        {
-          "start":"00:31:00.000",
-          "title":"Kahekümne esimene stseen"
-        },
-        {
-          "start":"00:32:00.000",
-          "title":"Kokkuvõte"
-        },
-        {
-          "start":"00:33:50.000",
-          "title":"(bloopers)"
-        }
-      ],
-      "title":"Episood #13",
-      "permalink":"https://pooltund.improv.ee/osad/13/",
-      "subtitle":"Teine Hooaeg",
-      "publicationDate":"2016-06-14T23:30:10+00:00",
-      "summary":"Valmar Valdna, Eva Kristjuhan, Evelin Rootsi, Tanel Sirp, Janika Hirvelaan, Ando Roots"
+      "title": "Episood #12",
+      "permalink": "https://pooltund.improv.ee/osad/12/",
+      "subtitle": "Longform Jämm",
+      "publicationDate": "2016-04-09T10:10:10+00:00",
+      "summary": "Janika Hirvelaan, Veeda Kala, Ando Roots, Rauno Meronen, Maria Liiger"
     },
     {
-      "duration":"40:01.000",
-      "downloads":[
+      "duration": "35:27.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":38428672,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3"
+          "assetTitle": "MP3 Audio (128 Kbps .mp3)",
+          "size": 34064384,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":38852209,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 34464377,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-06-14-Impropooltund-Episood-13-Teine-Hooaeg.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Algus - sissejuhatus ja monoloogid"
+          "start": "00:00:00.000",
+          "title": "Algus - monoloogid"
         },
         {
-          "start":"00:04:20.000",
-          "title":"Esimene stseen"
+          "start": "00:04:41.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:34:00.000",
-          "title":"Kokkuvõte"
+          "start": "00:06:16.000",
+          "title": "Teine stseen"
         },
         {
-          "start":"00:38:02.000",
-          "title":"(bloopers)"
+          "start": "00:04:41.000",
+          "title": "Esimene stseen"
+        },
+        {
+          "start": "00:07:43.000",
+          "title": "Kolmas stseen"
+        },
+        {
+          "start": "00:08:55.000",
+          "title": "Neljas stseen"
+        },
+        {
+          "start": "00:10:25.000",
+          "title": "Viies stseen"
+        },
+        {
+          "start": "00:12:15.000",
+          "title": "Kuues stseen"
+        },
+        {
+          "start": "00:13:25.000",
+          "title": "Seitsmes stseen"
+        },
+        {
+          "start": "00:14:21.000",
+          "title": "Kaheksas stseen"
+        },
+        {
+          "start": "00:16:07.000",
+          "title": "Üheksas stseen"
+        },
+        {
+          "start": "00:17:07.000",
+          "title": "Kümnes stseen"
+        },
+        {
+          "start": "00:18:19.000",
+          "title": "Üheteistkümnes stseen"
+        },
+        {
+          "start": "00:19:58.000",
+          "title": "Kaheteistkümnes stseen"
+        },
+        {
+          "start": "00:20:55.000",
+          "title": "Kolmeteistkümnes stseen"
+        },
+        {
+          "start": "00:21:55.000",
+          "title": "Neljateistkümnes stseen"
+        },
+        {
+          "start": "00:22:26.000",
+          "title": "Viieteistkümnes stseen"
+        },
+        {
+          "start": "00:23:57.000",
+          "title": "Kuueteistkümnes stseen"
+        },
+        {
+          "start": "00:25:05.000",
+          "title": "Seitsmeteistkümnes stseen"
+        },
+        {
+          "start": "00:27:10.000",
+          "title": "Kaheksateistkümnes stseen"
+        },
+        {
+          "start": "00:28:15.000",
+          "title": "Üheksateistkümnes stseen"
+        },
+        {
+          "start": "00:29:08.000",
+          "title": "Kahekümnes stseen"
+        },
+        {
+          "start": "00:31:00.000",
+          "title": "Kahekümne esimene stseen"
+        },
+        {
+          "start": "00:32:00.000",
+          "title": "Kokkuvõte"
+        },
+        {
+          "start": "00:33:50.000",
+          "title": "(bloopers)"
         }
       ],
-      "title":"Episood #14",
-      "permalink":"https://pooltund.improv.ee/osad/14/",
-      "subtitle":"Kaks Issit",
-      "publicationDate":"2016-06-28T22:00:10+00:00",
-      "summary":"Räägitakse suhtedünaamikatest. Tulnukad ründavad maad. Spaas saab romantikat. Saates Timo Talvik, Tanel Sirp, Janika Hirvelaan ja Ando Roots"
+      "title": "Episood #13",
+      "permalink": "https://pooltund.improv.ee/osad/13/",
+      "subtitle": "Teine Hooaeg",
+      "publicationDate": "2016-06-14T23:30:10+00:00",
+      "summary": "Valmar Valdna, Eva Kristjuhan, Evelin Rootsi, Tanel Sirp, Janika Hirvelaan, Ando Roots"
     },
     {
-      "duration":"32:19.000",
-      "downloads":[
+      "duration": "40:01.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":31034902,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.mp3"
+          "assetTitle": "MP3 Audio (128 Kbps .mp3)",
+          "size": 38428672,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":31399404,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 38852209,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-06-28-Impropooltund-Osa-14-Kaks-Issit.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Algus - sissejuhatus ja monoloogid"
         },
         {
-          "start":"00:01:30.000",
-          "title":"Esimene stseen"
+          "start": "00:04:20.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:29:15.000",
-          "title":"Kokkuvõte"
+          "start": "00:34:00.000",
+          "title": "Kokkuvõte"
+        },
+        {
+          "start": "00:38:02.000",
+          "title": "(bloopers)"
         }
       ],
-      "title":"Osa #15",
-      "permalink":"https://pooltund.improv.ee/osad/15/",
-      "subtitle":"Muusika",
-      "publicationDate":"2016-07-12T23:00:00+00:00",
-      "summary":"Seekord katsetame muusikaga: stseenide taustaks mängib DJ erinevaid muusikapalu. Saates Timo Talvik, Rauno Meronen, Evelin Rootsi ja Ando Roots"
+      "title": "Episood #14",
+      "permalink": "https://pooltund.improv.ee/osad/14/",
+      "subtitle": "Kaks Issit",
+      "publicationDate": "2016-06-28T22:00:10+00:00",
+      "summary": "Räägitakse suhtedünaamikatest. Tulnukad ründavad maad. Spaas saab romantikat. Saates Timo Talvik, Tanel Sirp, Janika Hirvelaan ja Ando Roots"
     },
     {
-      "duration":"30:16.000",
-      "downloads":[
+      "duration": "32:19.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":29100032,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.mp3"
+          "assetTitle": "MP3 Audio (128 Kbps .mp3)",
+          "size": 31034902,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":29413028,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 31399404,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-07-12-Impropooltund-Osa-15-Muusika.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
         },
         {
-          "start":"00:00:55.000",
-          "title":"Esimene stseen"
+          "start": "00:01:30.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:28:00.000",
-          "title":"Kokkuvõte"
+          "start": "00:29:15.000",
+          "title": "Kokkuvõte"
         }
       ],
-      "title":"Osa #16",
-      "permalink":"https://pooltund.improv.ee/osad/16/",
-      "subtitle":"Impropooltund Timoga",
-      "publicationDate":"2016-07-26T10:00:00+00:00",
-      "summary":"Pool tundi muusikast inspireeritud narratiivset improviseeritud kuuldemängu. Saates Timo Talvik, Tanel Sirp, Eva Kristjuhan, Valmar Valdna ja Ando Roots"
+      "title": "Osa #15",
+      "permalink": "https://pooltund.improv.ee/osad/15/",
+      "subtitle": "Muusika",
+      "publicationDate": "2016-07-12T23:00:00+00:00",
+      "summary": "Seekord katsetame muusikaga: stseenide taustaks mängib DJ erinevaid muusikapalu. Saates Timo Talvik, Rauno Meronen, Evelin Rootsi ja Ando Roots"
     },
     {
-      "duration":"35:51.000",
-      "downloads":[
+      "duration": "30:16.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (128 Kbps .mp3)",
-          "size":34455552,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3"
+          "assetTitle": "MP3 Audio (128 Kbps .mp3)",
+          "size": 29100032,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":34826598,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 29413028,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-07-26-Impropooltund-Episood-16-Impropooltund-Timoga.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
         },
         {
-          "start":"00:01:05.000",
-          "title":"Esimene stseen"
+          "start": "00:00:55.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:27:45.000",
-          "title":"Kokkuvõte"
-        },
-        {
-          "start":"00:29:15.000",
-          "title":"Uudised"
-        },
-        {
-          "start":"00:32:45.000",
-          "title":"Bloopers"
+          "start": "00:28:00.000",
+          "title": "Kokkuvõte"
         }
       ],
-      "title":"Osa #17",
-      "permalink":"https://pooltund.improv.ee/osad/17/",
-      "subtitle":"Tsenseeritud Toivo",
-      "publicationDate":"2016-08-10T22:30:00+00:00",
-      "summary":"Olin su isaga hea sõber. Ma olin siis päris väike. Su isa oli hea mees... vinge mees. Kahju, et teda enam ei ole. Ta suri ära. Lahinguväljal. Saates Janika Hirvelaan, Timo Talvik, Toivo Värbu, Rauno Meronen ja Ando Roots"
-    },
-     {
-      "duration":"59:00.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":84974653,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.mp3"
-        },
-        {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":57260536,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.m4a"
-        }
-      ],
-      "chapters":[
-        {
-          "start":"00:00:00.000",
-          "title":"Introduction"
-        },
-        {
-          "start":"00:02:40.000",
-          "title":"Discussion (good audio)"
-        },
-        {
-          "start":"00:13:49.000",
-          "title":"Discussion (bad audio)"
-        },
-        {
-          "start":"00:43:20.000",
-          "title":"Discussion (good audio)"
-        },
-        {
-          "start":"00:56:00.000",
-          "title":"Goodbyes"
-        }
-      ],
-      "title":"Episode #18",
-      "permalink":"https://pooltund.improv.ee/osad/18/",
-      "subtitle":"The Business of Improv",
-      "publicationDate":"2016-08-18T21:00:00+00:00",
-      "summary":"Noah Levin and Rauno Meronen share their experience with professional improv and growing the improv community"
-    },
-     {
-      "duration":"34:06.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":49089305,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3"
-        },
-        {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":33080008,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a"
-        }
-      ],
-      "chapters":[
-        {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
-        },
-        {
-          "start":"00:01:36.000",
-          "title":"Esimene stseen"
-        },
-        {
-          "start":"00:29:14.000",
-          "title":"Kokkuvõte"
-        },
-        {
-          "start":"00:33:25.000",
-          "title":"Bloopers"
-        }
-      ],
-      "title":"Osa #19",
-      "permalink":"https://pooltund.improv.ee/osad/19/",
-      "subtitle":"Mitu Vagunit",
-      "publicationDate":"2016-10-04T22:30:00+00:00",
-      "summary":"Saates Toivo Värbu, Rauno Meronen, Ando Roots, Tanel Sirp ja Timo Talvik."
+      "title": "Osa #16",
+      "permalink": "https://pooltund.improv.ee/osad/16/",
+      "subtitle": "Impropooltund Timoga",
+      "publicationDate": "2016-07-26T10:00:00+00:00",
+      "summary": "Pool tundi muusikast inspireeritud narratiivset improviseeritud kuuldemängu. Saates Timo Talvik, Tanel Sirp, Eva Kristjuhan, Valmar Valdna ja Ando Roots"
     },
     {
-      "duration":"32:21.000",
-      "downloads":[
+      "duration": "35:51.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":46592208,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3"
+          "assetTitle": "MP3 Audio (128 Kbps .mp3)",
+          "size": 34455552,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":31396778,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 34826598,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-08-10-Impropooltund-Episood-17-Tsenseeritud-Toivo.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Introductions"
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
         },
         {
-          "start":"00:03:00.000",
-          "title":"Inspiration Monologues"
+          "start": "00:01:05.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:05:45.000",
-          "title":"First Scene"
+          "start": "00:27:45.000",
+          "title": "Kokkuvõte"
         },
         {
-          "start":"00:24:20.000",
-          "title":"Intermission"
+          "start": "00:29:15.000",
+          "title": "Uudised"
         },
         {
-          "start":"00:25:00.000",
-          "title":"Jump back to the 1st scene"
-        },
-        {
-          "start":"00:27:35.000",
-          "title":"Outro"
+          "start": "00:32:45.000",
+          "title": "Bloopers"
         }
       ],
-      "title":"Episode #20: Tilt 4 Special",
-      "permalink":"https://pooltund.improv.ee/osad/20/",
-      "subtitle":"Tilt 4 Special",
-      "publicationDate":"2016-10-23T17:00:00+00:00",
-      "summary":"Recorded at the Tilt 4 Improv Festival, 20-22 October 2016 in Tallinn, Estonia. Rod Ben Zeev, Hila Di Castro and Dan Renwick join me to record a short improv jam."
+      "title": "Osa #17",
+      "permalink": "https://pooltund.improv.ee/osad/17/",
+      "subtitle": "Tsenseeritud Toivo",
+      "publicationDate": "2016-08-10T22:30:00+00:00",
+      "summary": "Olin su isaga hea sõber. Ma olin siis päris väike. Su isa oli hea mees... vinge mees. Kahju, et teda enam ei ole. Ta suri ära. Lahinguväljal. Saates Janika Hirvelaan, Timo Talvik, Toivo Värbu, Rauno Meronen ja Ando Roots"
     },
-
-
     {
-      "duration":"38:24.000",
-      "downloads":[
+      "duration": "59:00.000",
+      "downloads": [
         {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":55302895,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3"
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 84974653,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":38236858,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 57260536,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-08-18-Improv-Half-Hour-Episode-18-The-Business-of-Improv.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Introduction"
         },
         {
-          "start":"00:03:13.000",
-          "title":"Monoloogid"
+          "start": "00:02:40.000",
+          "title": "Discussion (good audio)"
         },
         {
-          "start":"00:05:38.000",
-          "title":"Esimene stseen"
+          "start": "00:13:49.000",
+          "title": "Discussion (bad audio)"
         },
         {
-          "start":"00:32:43.000",
-          "title":"Arutelu"
+          "start": "00:43:20.000",
+          "title": "Discussion (good audio)"
         },
         {
-          "start":"00:36:58.000",
-          "title":"Bloopers"
+          "start": "00:56:00.000",
+          "title": "Goodbyes"
         }
       ],
-      "title":"Episood #21: Komejant",
-      "permalink":"https://pooltund.improv.ee/osad/21/",
-      "subtitle":"Komejant",
-      "publicationDate":"2016-12-31T16:00:00+00:00",
-      "summary":"Saates on Ruutu10 majatiim Komejant: Janika Hirvelaan, Enel Murakas, Kristjan Vatter, Maria Liiger, Kaupo Vaher ja Olavi Sõna. Komejant on Ruutu10-ne majatiim, mis loodi 2016 sügisel improviseerijatest, kes on läbinud Ruutu10 impro-kursuse(d). Majatiimi juhendaja on Rauno Meronen Ruutu10-st."
+      "title": "Episode #18",
+      "permalink": "https://pooltund.improv.ee/osad/18/",
+      "subtitle": "The Business of Improv",
+      "publicationDate": "2016-08-18T21:00:00+00:00",
+      "summary": "Noah Levin and Rauno Meronen share their experience with professional improv and growing the improv community"
     },
-
-
+    {
+      "duration": "34:06.000",
+      "downloads": [
         {
-      "duration":"33:56.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":48896000,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3"
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 49089305,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":34774576,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 33080008,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-10-04-Impropooltund-Episood-19-Mitu-Vagunit.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
         },
         {
-          "start":"00:03:00.000",
-          "title":"Monoloogid"
+          "start": "00:01:36.000",
+          "title": "Esimene stseen"
         },
         {
-          "start":"00:06:00.000",
-          "title":"Esimene stseen"
+          "start": "00:29:14.000",
+          "title": "Kokkuvõte"
         },
         {
-          "start":"00:29:38.000",
-          "title":"Arutelu"
+          "start": "00:33:25.000",
+          "title": "Bloopers"
         }
       ],
-      "title":"Episood #22",
-      "permalink":"https://pooltund.improv.ee/osad/22/",
-      "subtitle":"Kodulaenust Ja Laste Saamisest",
-      "publicationDate":"2017-01-24T10:00:00+00:00",
-      "summary":"Kuuldemäng, mis viib meid haiglasse, kus keskealine paarike proovib arstide ja erinevate haigla asukate kaasabil leida vastust küsimusele kas ja kuidas last saada. Inspireerituna Ando mõtetest vananemisest ja kodulaenust ning Toivo matemaatilisest valemist, mis arvutab välja kui vana peaks Toivo olema, et lapsi saada. Saates on Janika Hirvelaan, Toivo Värbu, Rauno Meronen ja Ando Roots."
+      "title": "Osa #19",
+      "permalink": "https://pooltund.improv.ee/osad/19/",
+      "subtitle": "Mitu Vagunit",
+      "publicationDate": "2016-10-04T22:30:00+00:00",
+      "summary": "Saates Toivo Värbu, Rauno Meronen, Ando Roots, Tanel Sirp ja Timo Talvik."
     },
-
-
-
+    {
+      "duration": "32:21.000",
+      "downloads": [
         {
-      "duration":"36:06.000",
-      "downloads":[
-        {
-          "assetTitle":"MP3 Audio (192 Kbps .mp3)",
-          "size":52015104,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.mp3",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.mp3"
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 46592208,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.mp3"
         },
         {
-          "assetTitle":"MPEG-4 Audio (128 Kbps .m4a)",
-          "size":37530487,
-          "url":"https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.m4a",
-          "directAccess":"https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.m4a"
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 31396778,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-10-22-Improv-Half-Hour-Episode-18-Tilt-4-Special.m4a"
         }
       ],
-      "chapters":[
+      "chapters": [
         {
-          "start":"00:00:00.000",
-          "title":"Sissejuhatus"
+          "start": "00:00:00.000",
+          "title": "Introductions"
+        },
+        {
+          "start": "00:03:00.000",
+          "title": "Inspiration Monologues"
+        },
+        {
+          "start": "00:05:45.000",
+          "title": "First Scene"
+        },
+        {
+          "start": "00:24:20.000",
+          "title": "Intermission"
+        },
+        {
+          "start": "00:25:00.000",
+          "title": "Jump back to the 1st scene"
+        },
+        {
+          "start": "00:27:35.000",
+          "title": "Outro"
         }
       ],
-      "title":"Episood #23",
-      "permalink":"https://pooltund.improv.ee/osad/23/",
-      "subtitle":"Impro Filosoofilised Minutid",
-      "publicationDate":"2017-02-01T09:00:00+00:00",
-      "summary":"Toivo, Rauno ja Ando istuvad miimitud baarileti taga ning räägivad improst. Räägime Ruutu10 majatiimist, tööst ja improga raha teenimisest, sellest, kuidas impro definitsioon ja tähtsus ajas muutuvad ja paljust muust."
+      "title": "Episode #20: Tilt 4 Special",
+      "permalink": "https://pooltund.improv.ee/osad/20/",
+      "subtitle": "Tilt 4 Special",
+      "publicationDate": "2016-10-23T17:00:00+00:00",
+      "summary": "Recorded at the Tilt 4 Improv Festival, 20-22 October 2016 in Tallinn, Estonia. Rod Ben Zeev, Hila Di Castro and Dan Renwick join me to record a short improv jam."
+    },
+    {
+      "duration": "38:24.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 55302895,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 38236858,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2016-12-31-Impropooltund-Episood-21-Komejant.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        },
+        {
+          "start": "00:03:13.000",
+          "title": "Monoloogid"
+        },
+        {
+          "start": "00:05:38.000",
+          "title": "Esimene stseen"
+        },
+        {
+          "start": "00:32:43.000",
+          "title": "Arutelu"
+        },
+        {
+          "start": "00:36:58.000",
+          "title": "Bloopers"
+        }
+      ],
+      "title": "Episood #21: Komejant",
+      "permalink": "https://pooltund.improv.ee/osad/21/",
+      "subtitle": "Komejant",
+      "publicationDate": "2016-12-31T16:00:00+00:00",
+      "summary": "Saates on Ruutu10 majatiim Komejant: Janika Hirvelaan, Enel Murakas, Kristjan Vatter, Maria Liiger, Kaupo Vaher ja Olavi Sõna. Komejant on Ruutu10-ne majatiim, mis loodi 2016 sügisel improviseerijatest, kes on läbinud Ruutu10 impro-kursuse(d). Majatiimi juhendaja on Rauno Meronen Ruutu10-st."
+    },
+    {
+      "duration": "33:56.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 48896000,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 34774576,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-01-24-Impropooltund-Episood-22-Kodulaenust-Ja-Laste-Saamisest.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        },
+        {
+          "start": "00:03:00.000",
+          "title": "Monoloogid"
+        },
+        {
+          "start": "00:06:00.000",
+          "title": "Esimene stseen"
+        },
+        {
+          "start": "00:29:38.000",
+          "title": "Arutelu"
+        }
+      ],
+      "title": "Episood #22",
+      "permalink": "https://pooltund.improv.ee/osad/22/",
+      "subtitle": "Kodulaenust Ja Laste Saamisest",
+      "publicationDate": "2017-01-24T10:00:00+00:00",
+      "summary": "Kuuldemäng, mis viib meid haiglasse, kus keskealine paarike proovib arstide ja erinevate haigla asukate kaasabil leida vastust küsimusele kas ja kuidas last saada. Inspireerituna Ando mõtetest vananemisest ja kodulaenust ning Toivo matemaatilisest valemist, mis arvutab välja kui vana peaks Toivo olema, et lapsi saada. Saates on Janika Hirvelaan, Toivo Värbu, Rauno Meronen ja Ando Roots."
+    },
+    {
+      "duration": "36:06.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 52015104,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 37530487,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-01-Impropooltund-Episood-23-Impro-Filosoofilised-Minutid.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        }
+      ],
+      "title": "Episood #23",
+      "permalink": "https://pooltund.improv.ee/osad/23/",
+      "subtitle": "Impro Filosoofilised Minutid",
+      "publicationDate": "2017-02-01T09:00:00+00:00",
+      "summary": "Toivo, Rauno ja Ando istuvad miimitud baarileti taga ning räägivad improst. Räägime Ruutu10 majatiimist, tööst ja improga raha teenimisest, sellest, kuidas impro definitsioon ja tähtsus ajas muutuvad ja paljust muust."
     }
   ]
 }
