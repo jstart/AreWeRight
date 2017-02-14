@@ -816,6 +816,43 @@
       "subtitle": "Impro Filosoofilised Minutid",
       "publicationDate": "2017-02-01T09:00:00+00:00",
       "summary": "Toivo, Rauno ja Ando istuvad miimitud baarileti taga ning räägivad improst. Räägime Ruutu10 majatiimist, tööst ja improga raha teenimisest, sellest, kuidas impro definitsioon ja tähtsus ajas muutuvad ja paljust muust."
+    },
+
+    {
+      "duration": "34:41.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 49981441,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 36236726,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-15-Impropooltund-24-Armandoish.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        },
+        {
+          "start": "00:30:49.000",
+          "title": "Järelmõtted" 
+        }
+      ],
+      "title": "Episood #24",
+      "permalink": "https://pooltund.improv.ee/osad/24/",
+      "subtitle": "Armandoish",
+      "publicationDate": "2017-02-15T09:00:00+00:00",
+      "summary": "Kuuldemäng, kus saates osalejad räägivad lugusid oma elust, mis on omakorda aluseks improviseeritud stseenidele. Muuhulgas saame teada, miks Toivo lindistusele hiljaks jäi. Saates Ando Roots, Timo Talvik, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
     }
+
+
   ]
 }
