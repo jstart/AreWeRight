@@ -851,6 +851,40 @@
       "subtitle": "Armandoish",
       "publicationDate": "2017-02-15T09:00:00+00:00",
       "summary": "Kuuldemäng, kus saates osalejad räägivad lugusid oma elust, mis on omakorda aluseks improviseeritud stseenidele. Muuhulgas saame teada, miks Toivo lindistusele hiljaks jäi. Saates Ando Roots, Timo Talvik, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
+    },
+    {
+      "duration": "34:15.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 49364552,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 36004874,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-02-22-Impropooltund-25-Impro-Filosoofilised-Minutid.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        },
+        {
+          "start": "00:32:30.000",
+          "title": "Järelmõtted" 
+        }
+      ],
+      "title": "Episood #25",
+      "permalink": "https://pooltund.improv.ee/osad/25/",
+      "subtitle": "Impro Filosoofilised Minutid",
+      "publicationDate": "2017-02-22T09:00:00+00:00",
+      "summary": "Räägime improga alustamisest, mida impro inimesele annab ja miks sellega tegelema jäädakse. Uurime, mis teeb improviseerijast hea improviseerija, mõlgutame mälestusi kirkamatest laval oldud hetkedest ja hirmudest ning lobiseme niisama teemal impro. Saates Ando Roots, Timo Talvik, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
     }
 
 
