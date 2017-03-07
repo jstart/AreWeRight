@@ -885,6 +885,45 @@
       "subtitle": "Impro Filosoofilised Minutid",
       "publicationDate": "2017-02-22T09:00:00+00:00",
       "summary": "Räägime improga alustamisest, mida impro inimesele annab ja miks sellega tegelema jäädakse. Uurime, mis teeb improviseerijast hea improviseerija, mõlgutame mälestusi kirkamatest laval oldud hetkedest ja hirmudest ning lobiseme niisama teemal impro. Saates Ando Roots, Timo Talvik, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
+    },
+
+        {
+      "duration": "28:12.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 40628143,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 29013818,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-03-08-Impropooltund-26-Episood-26-K5-ja-Kiisu.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        },
+        {
+          "start": "00:03:54.000",
+          "title": "Esimene stseen"
+        },
+        {
+          "start": "00:24:56.000",
+          "title": "Järelmõtted" 
+        }
+      ],
+      "title": "Episood #26",
+      "permalink": "https://pooltund.improv.ee/osad/26/",
+      "subtitle": "K5 ja Kiisu",
+      "publicationDate": "2017-03-08T09:00:00+00:00",
+      "summary": "Pool tundi inspireeritud kuuldemängu inspireerituna Eneli aina pikemaks kasvavast tööpäevast, Rauno hilisest töölejõudmisest ja maksmata Tele2 arvetest ning Liisi vanadest sõpradest. Saates Ando Roots, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
     }
 
 
