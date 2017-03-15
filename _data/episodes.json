@@ -924,6 +924,37 @@
       "subtitle": "K5 ja Kiisu",
       "publicationDate": "2017-03-08T09:00:00+00:00",
       "summary": "Improviseeritud kuuldemäng inspireerituna Eneli aina pikemaks kasvavast tööpäevast, Rauno hilisest töölejõudmisest ja maksmata Tele2 arvetest ning Liisi vanadest sõpradest. Saates Ando Roots, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
+    },
+
+       {
+      "duration": "32:11.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (192 Kbps .mp3)",
+          "size": 46395357,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.mp3",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.mp3",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.mp3"
+        },
+        {
+          "assetTitle": "MPEG-4 Audio (128 Kbps .m4a)",
+          "size": 33844993,
+          "url": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.m4a",
+          "directAccess": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.m4a",
+          "downloadUrl": "https://cdn.pooltund.improv.ee/mp3/2017-03-15-Impropooltund-27-Impro-Filosoofilised-Minutid.m4a"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00.000",
+          "title": "Sissejuhatus"
+        }
+      ],
+      "title": "Episood #27",
+      "permalink": "https://pooltund.improv.ee/osad/27/",
+      "subtitle": "Impro Filosoofilised Minutid",
+      "publicationDate": "2017-03-15T09:00:00+00:00",
+      "summary": "Räägime heli ja valguse kasutamisest impros, impro publikust või selle puudumisest, festivalidest ja seal käimisest ning sellest, milline näeb välja ideaalne impro lava. Saates Ando Roots, Rauno Meronen, Toivo Värbu, Enel Murakas ja Liis Tammjärv."
     }
 
 
