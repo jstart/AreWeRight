@@ -35,7 +35,7 @@ items:
           deploymentconfig: pooltund
       spec:
         containers:
-        - image: anroots/pooltund.improv.ee@sha256:d2523c2fe6c4b3139e29e7f7fc385d385da88b21c7567f3431a83cf822b03c9f
+        - image: anroots/ctruman.info/AreWeRight@sha256:d2523c2fe6c4b3139e29e7f7fc385d385da88b21c7567f3431a83cf822b03c9f
           imagePullPolicy: Always
           livenessProbe:
             failureThreshold: 3
@@ -117,7 +117,7 @@ items:
     creationTimestamp: null
     name: pooltund
   spec:
-    host: pooltund.improv.ee
+    host: ctruman.info/AreWeRight
     port:
       targetPort: webserver
     to:
@@ -131,7 +131,7 @@ items:
       - lastTransitionTime: 2017-05-27T10:42:05Z
         status: "True"
         type: Admitted
-      host: pooltund.improv.ee
+      host: ctruman.info/AreWeRight
       routerName: router
       wildcardPolicy: None
 - apiVersion: v1
@@ -148,7 +148,7 @@ items:
     tags:
     - annotations:
         openshift.io/generated-by: OpenShiftWebConsole
-        openshift.io/imported-from: anroots/pooltund.improv.ee
+        openshift.io/imported-from: anroots/ctruman.info/AreWeRight
       from:
         kind: DockerImage
         name: 172.30.192.131:5000/improv-ee/pooltund:latest

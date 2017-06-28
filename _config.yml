@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Impropooltund
-locale: et_EE
-description: 'Impropooltund on netisaade, kus räägitakse Eesti impro-elust ning improviseeritakse lühikesi kuuldemänge.'
+title: Are We Right?
+locale: en_US
+description: ‘Are We Right Podcast’
 logo: site-logo.jpg
 search: false
-url: https://pooltund.improv.ee
+url: https://ctruman.info/AreWeRight
 #url: http://localhost:4000
 
 # Jekyll configuration
@@ -53,7 +53,7 @@ owner:
   email: ando@sqroot.eu
   disqus-shortname:
   twitter: #SQrooted
-  facebook: impropooltund
+  facebook: Are-We-Right-1445982635447787
   github: #anroots
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #anroots

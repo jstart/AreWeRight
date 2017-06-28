@@ -29,19 +29,19 @@ fi
 # ID3 tag an audio file
 # The argument to this needs to be a path to an audio file
 function id3tag {
-	
+
 	eyeD3 --remove-all $1
-	
+
 	eyeD3 --artist "$ARTIST" $1
 	eyeD3 --album "$ALBUM" $1
 	eyeD3 --title "$TITLE" $1
 	eyeD3 --track "$TRACK" $1
 	eyeD3 --genre "$GENRE" $1
 	eyeD3 --year `date +"%Y"` $1
-	eyeD3 --comment="et:Impropooltund:https://pooltund.improv.ee" $1
+	eyeD3 --comment="en:AreWeRight:https://ctruman.info/AreWeRight" $1
 	eyeD3 --add-image ./images/cover.jpg:FRONT_COVER $1
-	eyeD3 --set-url-frame WOAF:"https://pooltund.improv.ee/osad/$TRACK" $1
-	eyeD3 --set-url-frame WPUB:'https://pooltund.improv.ee' $1
+	eyeD3 --set-url-frame WOAF:"https://ctruman.info/AreWeRight/osad/$TRACK" $1
+	eyeD3 --set-url-frame WPUB:'https://ctruman.info/AreWeRight' $1
 }
 
 
@@ -65,7 +65,7 @@ echo "Publish Date (2017-02-21): "
 read PUBLISH_DATE
 
 
-ALBUM="Impropooltund"
+ALBUM="Are We Right?"
 GENRE="Podcast"
 
 INPUT_AUDIO_FILE="$1"
@@ -103,7 +103,7 @@ id3tag $MP3_FILE
 ffmpeg -y -i $MP3_FILE -vn -c:a aac \
 	-b:a 128k -ac 2 \
 	-r:a 48000 -b:a 128k \
-	"$M4A_FILE" 
+	"$M4A_FILE"
 
 if [ $? -ne 0 ]; then
     echo "Transcoding failed!"
