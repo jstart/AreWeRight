@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Impropooltund
-excerpt: "Impropooltund - kõik avaldatud osad"
+title: Are We Right?
+excerpt: "Are We Right? - A Podcast from introspective conservatives"
 search_omit: true
 title_visible: false
 ---
 
 <ul class="post-list">
-{% for post in site.posts %} 
+{% for post in site.posts %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | localize: "%d. %B %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
