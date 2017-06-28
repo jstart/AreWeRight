@@ -65,7 +65,7 @@ echo "Publish Date (2017-02-21): "
 read PUBLISH_DATE
 
 
-ALBUM="Are We Right?"
+ALBUM="Are-We-Right?"
 GENRE="Podcast"
 
 INPUT_AUDIO_FILE="$1"
