@@ -38,7 +38,7 @@ defaults:
     values:
       share: true
       layout: post
-      categories: episodes
+      categories: osad
       comments: true
     scope:
       path: ""

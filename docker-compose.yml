@@ -1,5 +1,0 @@
-web:
-  build: .
-  container_name: pooltund-improv-ee
-  ports:
-    - 8080:80
