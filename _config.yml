@@ -3,7 +3,7 @@
 title: Are We Right?
 locale: en_US
 description: ‘Are We Right Podcast’
-logo: site-logo.jpg
+logo: site-logo.png
 search: false
 url: http://ctruman.info/AreWeRight
 #url: http://localhost:4000
@@ -49,7 +49,7 @@ defaults:
 # Site owner
 owner:
   name: Ando Roots
-  avatar: ando.jpg
+  avatar: ando.png
   email: ando@sqroot.eu
   disqus-shortname:
   twitter: #SQrooted
