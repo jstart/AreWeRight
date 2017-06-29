@@ -26,8 +26,7 @@ sitemap: false
       <itunes:email>cleetruman@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}/images/ando_large.png" />
-    <itunes:category text="Politics">
-    <itunes:category text="News" />
+    <itunes:category text="News & Politics">
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     {% for episode in site.data.episodes.episodes %}
