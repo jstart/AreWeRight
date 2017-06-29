@@ -20,16 +20,16 @@ sitemap: false
     </image>
     <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"/>
 
-    <itunes:author>Ando Roots</itunes:author>
-    <itunes:summary>Impropooltund Andoga on netisaade, kus Ando ja ta külalised räägivad Eesti impro-elust ning improviseerivad lühikesi kuuldemänge.</itunes:summary>
-    <itunes:keywords>Impro,improv,improviseeritud teater</itunes:keywords>
+    <itunes:author>Chris Truman</itunes:author>
+    <itunes:summary>Introspective Conservatives</itunes:summary>
+    <itunes:keywords>are we right, conservatives</itunes:keywords>
     <itunes:owner>
-      <itunes:name>Ando Roots</itunes:name>
-      <itunes:email>ando@sqroot.eu</itunes:email>
+      <itunes:name>Chris Truman</itunes:name>
+      <itunes:email>cleetruman@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}/images/ando_large.jpg" />
-    <itunes:category text="Arts">
-      <itunes:category text="Performing Arts" />
+    <itunes:category text="Politics">
+    <itunes:category text="News" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     {% for episode in site.data.episodes.episodes %}
