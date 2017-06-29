@@ -25,7 +25,7 @@ sitemap: false
       <itunes:name>Chris Truman</itunes:name>
       <itunes:email>cleetruman@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.url }}/images/ando_large.jpg" />
+    <itunes:image href="{{ site.url }}/images/ando_large.png" />
     <itunes:category text="Politics">
     <itunes:category text="News" />
     </itunes:category>
