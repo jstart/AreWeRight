@@ -38,7 +38,7 @@ sitemap: false
         <guid isPermaLink="true">{{ episode.permalink }}</guid>
         {% assign download = episode.downloads[0] %}
         <enclosure url="{{ download.directAccess }}" length="{{ download.size }}" type="audio/mp3"/>
-        <itunes:author>Ando Roots</itunes:author>
+        <itunes:author>Chris Truman</itunes:author>
         <itunes:summary>{{ episode.summary }}</itunes:summary>
         <itunes:keywords>{{ episode.summary }}</itunes:keywords>
         <itunes:image href="{{ site.url }}/images/ando_large.png" />
