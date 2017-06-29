@@ -7,15 +7,13 @@ sitemap: false
     <title>{{ site.title }}</title>
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
-    <language>ee</language>
-    <managingEditor>ando@sqroot.eu (Ando Roots)</managingEditor>
-    <webMaster>ando@sqroot.eu (Ando Roots)</webMaster>
-    <copyright>2016 Ando Roots</copyright>
+    <language>en</language>
+    <copyright>2017 Chris Truman</copyright>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <image>
       <link>{{ site.url}}</link>
-      <url>{{ site.url }}/images/ando.jpg</url>
+      <url>{{ site.url }}/images/ando.png</url>
       <title>{{ site.title }}</title>
     </image>
     <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"/>
@@ -44,7 +42,7 @@ sitemap: false
         <itunes:author>Ando Roots</itunes:author>
         <itunes:summary>{{ episode.summary }}</itunes:summary>
         <itunes:keywords>{{ episode.summary }}</itunes:keywords>
-        <itunes:image href="{{ site.url }}/images/ando_large.jpg" />
+        <itunes:image href="{{ site.url }}/images/ando_large.png" />
         <itunes:explicit>no</itunes:explicit>
       </item>
     {% endfor %}
