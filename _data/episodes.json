@@ -44,6 +44,23 @@
       "subtitle": "",
       "publicationDate": "2017-06-28",
       "summary": ""
+    },
+    {
+      "duration": "33:58.000",
+      "downloads": [
+        {
+          "assetTitle": "MP3 Audio (mp3)",
+          "size": 39710110,
+          "url": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3",
+          "directAccess": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3",
+          "downloadUrl": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3"
+        }
+      ],
+      "title": "Episode 2 - Healthcare",
+      "permalink": "http://ctruman.info/AreWeRight/episodes/3/",
+      "subtitle": "",
+      "publicationDate": "2017-07-03",
+      "summary": ""
     }
   ]
 }
