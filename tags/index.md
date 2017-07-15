@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Osalejad
-excerpt: "Saadete arhiiv, grupeeritud osalejate järgi"
+title: Participants
+excerpt: ""
 search_omit: true
 ---
 
