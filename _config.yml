@@ -48,9 +48,8 @@ defaults:
 
 # Site owner
 owner:
-  name: Ando Roots
+  name: Christopher Truman
   avatar: ando.png
-  email: ando@sqroot.eu
   disqus-shortname:
   twitter: #SQrooted
   facebook: Are-We-Right-1445982635447787
