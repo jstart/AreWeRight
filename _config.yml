@@ -38,7 +38,7 @@ defaults:
     values:
       share: true
       layout: post
-      categories: osad
+      categories: Tags
       comments: true
     scope:
       path: ""
