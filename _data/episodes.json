@@ -12,11 +12,11 @@
   },
   "episodes": [
     {
-      "duration": "33:58.000",
+      "duration": "25:58.000",
       "downloads": [
         {
           "assetTitle": "MP3 Audio (mp3)",
-          "size": 39710110,
+          "size": 39711110,
           "url": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_trailer.mp3",
           "directAccess": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_trailer.mp3",
           "downloadUrl": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_trailer.mp3"
@@ -24,16 +24,16 @@
       ],
       "title": "Trailer",
       "permalink": "http://ctruman.info/AreWeRight/episodes/1/",
-      "subtitle": "",
+      "subtitle": "An introduction from the two hosts of Are We Right",
       "publicationDate": "2017-06-27",
-      "summary": ""
+      "summary": "An introduction from the two hosts of Are We Right"
     },
     {
-      "duration": "33:58.000",
+      "duration": "33:57.000",
       "downloads": [
         {
           "assetTitle": "MP3 Audio (mp3)",
-          "size": 39710110,
+          "size": 39710120,
           "url": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_01.mp3",
           "directAccess": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_01.mp3",
           "downloadUrl": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_01.mp3"
@@ -41,16 +41,16 @@
       ],
       "title": "Episode 1 - Anti-Intellectualism",
       "permalink": "http://ctruman.info/AreWeRight/episodes/2/",
-      "subtitle": "",
+      "subtitle": "Many conservatives seem to have disdain for facts and intellectual discourse, why?",
       "publicationDate": "2017-06-28",
-      "summary": ""
+      "summary": "Many conservatives seem to have disdain for facts and intellectual discourse, why?"
     },
     {
       "duration": "33:58.000",
       "downloads": [
         {
           "assetTitle": "MP3 Audio (mp3)",
-          "size": 39710110,
+          "size": 31710110,
           "url": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3",
           "directAccess": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3",
           "downloadUrl": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_02.mp3"
@@ -58,16 +58,16 @@
       ],
       "title": "Episode 2 - Healthcare",
       "permalink": "http://ctruman.info/AreWeRight/episodes/3/",
-      "subtitle": "",
+      "subtitle": "Digging into ACA, AHCA, CBO and other acronyms that might kill us",
       "publicationDate": "2017-07-03",
-      "summary": ""
+      "summary": "Digging into ACA, AHCA, CBO and other acronyms that might kill us"
     },
     {
-      "duration": "33:58.000",
+      "duration": "45:45.000",
       "downloads": [
         {
           "assetTitle": "MP3 Audio (mp3)",
-          "size": 39710110,
+          "size": 39110110,
           "url": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_03.mp3",
           "directAccess": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_03.mp3",
           "downloadUrl": "https://raw.githubusercontent.com/jstart/AreWeRight/master/awr_03.mp3"
@@ -75,7 +75,7 @@
       ],
       "title": "Episode 3 - Immigration",
       "permalink": "http://ctruman.info/AreWeRight/episodes/3/",
-      "subtitle": "",
+      "subtitle": "A brief history of immigration and a discussion of how Christians should think about borders and immigration.",
       "publicationDate": "2017-07-14",
       "summary": "Immigration - Give me your tired, your poor, your huddled masses yearning to breathe free, The wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed, to me: I lift my lamp beside the golden door."
     }
